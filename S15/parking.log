@@ -1,0 +1,90 @@
+2026-01-14 17:55:50 - ============================================================
+2026-01-14 17:55:50 - INICIO DEL SISTEMA DE PARKING
+2026-01-14 17:55:50 - ============================================================
+2026-01-14 17:55:50 - Plaza A1 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza A2 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza A7 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza C1 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza C10 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza D4 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza E1 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza E4 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza F4 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - Plaza G6 configurada como EXCLUSIVA para minusválidos
+2026-01-14 17:55:50 - SISTEMA INICIADO - Parking creado con 70 plazas (7x10)
+2026-01-14 17:55:53 - MODO AUTOMÁTICO ACTIVADO
+2026-01-14 17:55:54 - INTENTO DE ENTRADA - Vehículo 2472YCF (NORMAL) intenta acceder al parking
+2026-01-14 17:55:54 - ENTRADA EXITOSA - Vehículo 2472YCF estacionado en plaza B5 (intento 1)
+2026-01-14 17:55:54 - INTENTO DE ENTRADA - Vehículo 0585TLE (NORMAL) intenta acceder al parking
+2026-01-14 17:55:54 - ENTRADA EXITOSA - Vehículo 0585TLE estacionado en plaza A10 (intento 1)
+2026-01-14 17:55:54 - INTENTO DE ENTRADA - Vehículo 7820RCY (NORMAL) intenta acceder al parking
+2026-01-14 17:55:54 - Intento 1 - Plaza B5 no disponible (ocupada)
+2026-01-14 17:55:54 - Intento 2 - Plaza A10 no disponible (ocupada)
+2026-01-14 17:55:54 - Intento 3 - Plaza B5 no disponible (ocupada)
+2026-01-14 17:55:54 - ENTRADA EXITOSA - Vehículo 7820RCY estacionado en plaza A3 (intento 4)
+2026-01-14 17:55:54 - INTENTO DE ENTRADA - Vehículo 0564WEK (NORMAL) intenta acceder al parking
+2026-01-14 17:55:54 - Intento 1 - Plaza A1 no disponible (solo minusválidos)
+2026-01-14 17:55:54 - ENTRADA EXITOSA - Vehículo 0564WEK estacionado en plaza A5 (intento 2)
+2026-01-14 17:55:54 - INTENTO DE ENTRADA - Vehículo 2390HWR (NORMAL) intenta acceder al parking
+2026-01-14 17:55:54 - ENTRADA EXITOSA - Vehículo 2390HWR estacionado en plaza A9 (intento 1)
+2026-01-14 17:55:55 - INTENTO DE ENTRADA - Vehículo 2822RGJ (NORMAL) intenta acceder al parking
+2026-01-14 17:55:55 - Intento 1 - Plaza A3 no disponible (ocupada)
+2026-01-14 17:55:55 - ENTRADA EXITOSA - Vehículo 2822RGJ estacionado en plaza B4 (intento 2)
+2026-01-14 17:55:55 - INTENTO DE ENTRADA - Vehículo 9846XVE (NORMAL) intenta acceder al parking
+2026-01-14 17:55:55 - ENTRADA EXITOSA - Vehículo 9846XVE estacionado en plaza B1 (intento 1)
+2026-01-14 17:55:55 - INTENTO DE ENTRADA - Vehículo 3600BPR (MINUSVÁLIDO) intenta acceder al parking
+2026-01-14 17:55:55 - Intento 1 - Plaza B5 no disponible (ocupada)
+2026-01-14 17:55:55 - ENTRADA EXITOSA - Vehículo 3600BPR estacionado en plaza E6 (intento 2)
+2026-01-14 17:55:55 - INTENTO DE ENTRADA - Vehículo 1070HBO (NORMAL) intenta acceder al parking
+2026-01-14 17:55:55 - ENTRADA EXITOSA - Vehículo 1070HBO estacionado en plaza C8 (intento 1)
+2026-01-14 17:55:55 - INTENTO DE ENTRADA - Vehículo 8079YDT (MINUSVÁLIDO) intenta acceder al parking
+2026-01-14 17:55:55 - ENTRADA EXITOSA - Vehículo 8079YDT estacionado en plaza F5 (intento 1)
+2026-01-14 17:55:55 - INTENTO DE ENTRADA - Vehículo 0463HGK (NORMAL) intenta acceder al parking
+2026-01-14 17:55:55 - ENTRADA EXITOSA - Vehículo 0463HGK estacionado en plaza C4 (intento 1)
+2026-01-14 17:55:56 - INTENTO DE ENTRADA - Vehículo 8954DNH (NORMAL) intenta acceder al parking
+2026-01-14 17:55:56 - ENTRADA EXITOSA - Vehículo 8954DNH estacionado en plaza F9 (intento 1)
+2026-01-14 17:55:56 - INTENTO DE ENTRADA - Vehículo 2412BWX (NORMAL) intenta acceder al parking
+2026-01-14 17:55:56 - Intento 1 - Plaza C1 no disponible (solo minusválidos)
+2026-01-14 17:55:56 - ENTRADA EXITOSA - Vehículo 2412BWX estacionado en plaza D3 (intento 2)
+2026-01-14 17:55:56 - INTENTO DE ENTRADA - Vehículo 2244CUR (NORMAL) intenta acceder al parking
+2026-01-14 17:55:56 - ENTRADA EXITOSA - Vehículo 2244CUR estacionado en plaza B10 (intento 1)
+2026-01-14 17:55:56 - INTENTO DE ENTRADA - Vehículo 1863WRS (NORMAL) intenta acceder al parking
+2026-01-14 17:55:56 - ENTRADA EXITOSA - Vehículo 1863WRS estacionado en plaza D8 (intento 1)
+2026-01-14 17:55:56 - INTENTO DE ENTRADA - Vehículo 2575KUY (NORMAL) intenta acceder al parking
+2026-01-14 17:55:56 - ENTRADA EXITOSA - Vehículo 2575KUY estacionado en plaza D5 (intento 1)
+2026-01-14 17:55:56 - INTENTO DE ENTRADA - Vehículo 5872JJZ (NORMAL) intenta acceder al parking
+2026-01-14 17:55:56 - ENTRADA EXITOSA - Vehículo 5872JJZ estacionado en plaza E3 (intento 1)
+2026-01-14 17:55:57 - SALIDA - Vehículo 2244CUR sale de plaza B10 - Tiempo: 1.6s - Tarifa: 0€
+2026-01-14 17:55:58 - INTENTO DE ENTRADA - Vehículo 0414YJP (NORMAL) intenta acceder al parking
+2026-01-14 17:55:58 - ENTRADA EXITOSA - Vehículo 0414YJP estacionado en plaza F6 (intento 1)
+2026-01-14 17:56:06 - INTENTO DE ENTRADA - Vehículo 6984TPF (NORMAL) intenta acceder al parking
+2026-01-14 17:56:06 - ENTRADA EXITOSA - Vehículo 6984TPF estacionado en plaza D10 (intento 1)
+2026-01-14 17:56:13 - INTENTO DE ENTRADA - Vehículo 9416MLA (NORMAL) intenta acceder al parking
+2026-01-14 17:56:13 - ENTRADA EXITOSA - Vehículo 9416MLA estacionado en plaza E9 (intento 1)
+2026-01-14 17:56:19 - SALIDA - Vehículo 2472YCF sale de plaza B5 - Tiempo: 25.3s - Tarifa: 0€
+2026-01-14 17:56:20 - INTENTO DE ENTRADA - Vehículo 8547OCP (NORMAL) intenta acceder al parking
+2026-01-14 17:56:20 - Intento 1 - Plaza F5 no disponible (ocupada)
+2026-01-14 17:56:20 - ENTRADA EXITOSA - Vehículo 8547OCP estacionado en plaza D6 (intento 2)
+2026-01-14 17:56:20 - SALIDA - Vehículo 7820RCY sale de plaza A3 - Tiempo: 25.6s - Tarifa: 0€
+2026-01-14 17:56:20 - SALIDA - Vehículo 2390HWR sale de plaza A9 - Tiempo: 25.4s - Tarifa: 0€
+2026-01-14 17:56:20 - SALIDA - Vehículo 0564WEK sale de plaza A5 - Tiempo: 25.9s - Tarifa: 0€
+2026-01-14 17:56:20 - SALIDA - Vehículo 2412BWX sale de plaza D3 - Tiempo: 24.8s - Tarifa: 0€
+2026-01-14 17:56:21 - SALIDA - Vehículo 2575KUY sale de plaza D5 - Tiempo: 24.5s - Tarifa: 0€
+2026-01-14 17:56:21 - SALIDA - Vehículo 1863WRS sale de plaza D8 - Tiempo: 24.9s - Tarifa: 0€
+2026-01-14 17:56:21 - SALIDA - Vehículo 9846XVE sale de plaza B1 - Tiempo: 26.4s - Tarifa: 0€
+2026-01-14 17:56:21 - SALIDA - Vehículo 8954DNH sale de plaza F9 - Tiempo: 25.8s - Tarifa: 0€
+2026-01-14 17:56:22 - SALIDA - Vehículo 0463HGK sale de plaza C4 - Tiempo: 26.2s - Tarifa: 0€
+2026-01-14 17:56:22 - SALIDA - Vehículo 5872JJZ sale de plaza E3 - Tiempo: 25.6s - Tarifa: 0€
+2026-01-14 17:56:22 - SALIDA - Vehículo 2822RGJ sale de plaza B4 - Tiempo: 27.3s - Tarifa: 0€
+2026-01-14 17:56:22 - SALIDA - Vehículo 8547OCP sale de plaza D6 - Tiempo: 2.7s - Tarifa: 0€
+2026-01-14 17:56:23 - SALIDA - Vehículo 0414YJP sale de plaza F6 - Tiempo: 24.3s - Tarifa: 0€
+2026-01-14 17:56:23 - SALIDA - Vehículo 9416MLA sale de plaza E9 - Tiempo: 10.0s - Tarifa: 0€
+2026-01-14 17:56:23 - SALIDA - Vehículo 6984TPF sale de plaza D10 - Tiempo: 17.7s - Tarifa: 0€
+2026-01-14 17:56:23 - SALIDA - Vehículo 3600BPR sale de plaza E6 - Tiempo: 28.5s - Tarifa: 0€
+2026-01-14 17:56:24 - SALIDA - Vehículo 8079YDT sale de plaza F5 - Tiempo: 28.5s - Tarifa: 0€
+2026-01-14 17:56:24 - SALIDA - Vehículo 0585TLE sale de plaza A10 - Tiempo: 29.8s - Tarifa: 0€
+2026-01-14 17:56:25 - SALIDA - Vehículo 1070HBO sale de plaza C8 - Tiempo: 29.7s - Tarifa: 0€
+2026-01-14 17:56:27 - Estado del parking guardado en JSON
+2026-01-14 17:56:34 - SALIDA FALLIDA - No hay vehículos en el parking
+2026-01-14 17:56:35 - INTENTO DE ENTRADA - Vehículo 2944AJW (MINUSVÁLIDO) intenta acceder al parking
+2026-01-14 17:56:35 - ENTRADA EXITOSA - Vehículo 2944AJW estacionado en plaza D3 (intento 1)

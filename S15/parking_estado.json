@@ -1,0 +1,636 @@
+{
+  "filas": 7,
+  "columnas": 10,
+  "aparcamientos": [
+    {
+      "id": "A1",
+      "fila": "A",
+      "columna": 1,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A2",
+      "fila": "A",
+      "columna": 2,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A3",
+      "fila": "A",
+      "columna": 3,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A4",
+      "fila": "A",
+      "columna": 4,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A5",
+      "fila": "A",
+      "columna": 5,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A6",
+      "fila": "A",
+      "columna": 6,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A7",
+      "fila": "A",
+      "columna": 7,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A8",
+      "fila": "A",
+      "columna": 8,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A9",
+      "fila": "A",
+      "columna": 9,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A10",
+      "fila": "A",
+      "columna": 10,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B1",
+      "fila": "B",
+      "columna": 1,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B2",
+      "fila": "B",
+      "columna": 2,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B3",
+      "fila": "B",
+      "columna": 3,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B4",
+      "fila": "B",
+      "columna": 4,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B5",
+      "fila": "B",
+      "columna": 5,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B6",
+      "fila": "B",
+      "columna": 6,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B7",
+      "fila": "B",
+      "columna": 7,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B8",
+      "fila": "B",
+      "columna": 8,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B9",
+      "fila": "B",
+      "columna": 9,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B10",
+      "fila": "B",
+      "columna": 10,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C1",
+      "fila": "C",
+      "columna": 1,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C2",
+      "fila": "C",
+      "columna": 2,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C3",
+      "fila": "C",
+      "columna": 3,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C4",
+      "fila": "C",
+      "columna": 4,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C5",
+      "fila": "C",
+      "columna": 5,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C6",
+      "fila": "C",
+      "columna": 6,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C7",
+      "fila": "C",
+      "columna": 7,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C8",
+      "fila": "C",
+      "columna": 8,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C9",
+      "fila": "C",
+      "columna": 9,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C10",
+      "fila": "C",
+      "columna": 10,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D1",
+      "fila": "D",
+      "columna": 1,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D2",
+      "fila": "D",
+      "columna": 2,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D3",
+      "fila": "D",
+      "columna": 3,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D4",
+      "fila": "D",
+      "columna": 4,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D5",
+      "fila": "D",
+      "columna": 5,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D6",
+      "fila": "D",
+      "columna": 6,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D7",
+      "fila": "D",
+      "columna": 7,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D8",
+      "fila": "D",
+      "columna": 8,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D9",
+      "fila": "D",
+      "columna": 9,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D10",
+      "fila": "D",
+      "columna": 10,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E1",
+      "fila": "E",
+      "columna": 1,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E2",
+      "fila": "E",
+      "columna": 2,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E3",
+      "fila": "E",
+      "columna": 3,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E4",
+      "fila": "E",
+      "columna": 4,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E5",
+      "fila": "E",
+      "columna": 5,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E6",
+      "fila": "E",
+      "columna": 6,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E7",
+      "fila": "E",
+      "columna": 7,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E8",
+      "fila": "E",
+      "columna": 8,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E9",
+      "fila": "E",
+      "columna": 9,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E10",
+      "fila": "E",
+      "columna": 10,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F1",
+      "fila": "F",
+      "columna": 1,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F2",
+      "fila": "F",
+      "columna": 2,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F3",
+      "fila": "F",
+      "columna": 3,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F4",
+      "fila": "F",
+      "columna": 4,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F5",
+      "fila": "F",
+      "columna": 5,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F6",
+      "fila": "F",
+      "columna": 6,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F7",
+      "fila": "F",
+      "columna": 7,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F8",
+      "fila": "F",
+      "columna": 8,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F9",
+      "fila": "F",
+      "columna": 9,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F10",
+      "fila": "F",
+      "columna": 10,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G1",
+      "fila": "G",
+      "columna": 1,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G2",
+      "fila": "G",
+      "columna": 2,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G3",
+      "fila": "G",
+      "columna": 3,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G4",
+      "fila": "G",
+      "columna": 4,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G5",
+      "fila": "G",
+      "columna": 5,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G6",
+      "fila": "G",
+      "columna": 6,
+      "solo_minusvalidos": true,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G7",
+      "fila": "G",
+      "columna": 7,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G8",
+      "fila": "G",
+      "columna": 8,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G9",
+      "fila": "G",
+      "columna": 9,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G10",
+      "fila": "G",
+      "columna": 10,
+      "solo_minusvalidos": false,
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    }
+  ]
+}
