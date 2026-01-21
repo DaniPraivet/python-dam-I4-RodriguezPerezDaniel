@@ -1,0 +1,894 @@
+{
+  "filas": 7,
+  "columnas": 13,
+  "aparcamientos": [
+    {
+      "id": "A1",
+      "fila": "A",
+      "columna": 1,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A2",
+      "fila": "A",
+      "columna": 2,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A3",
+      "fila": "A",
+      "columna": 3,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A4",
+      "fila": "A",
+      "columna": 4,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A5",
+      "fila": "A",
+      "columna": 5,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A6",
+      "fila": "A",
+      "columna": 6,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A7",
+      "fila": "A",
+      "columna": 7,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A8",
+      "fila": "A",
+      "columna": 8,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A9",
+      "fila": "A",
+      "columna": 9,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A10",
+      "fila": "A",
+      "columna": 10,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A11",
+      "fila": "A",
+      "columna": 11,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A12",
+      "fila": "A",
+      "columna": 12,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "A13",
+      "fila": "A",
+      "columna": 13,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "0523VUB",
+        "es_minusvalido": true,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:41:57.854902"
+    },
+    {
+      "id": "B1",
+      "fila": "B",
+      "columna": 1,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B2",
+      "fila": "B",
+      "columna": 2,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "7293ZUG",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:41:52.157777"
+    },
+    {
+      "id": "B3",
+      "fila": "B",
+      "columna": 3,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B4",
+      "fila": "B",
+      "columna": 4,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "5610VEN",
+        "es_minusvalido": true,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:40:34.934308"
+    },
+    {
+      "id": "B5",
+      "fila": "B",
+      "columna": 5,
+      "tipo": "electrico",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B6",
+      "fila": "B",
+      "columna": 6,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B7",
+      "fila": "B",
+      "columna": 7,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B8",
+      "fila": "B",
+      "columna": 8,
+      "tipo": "electrico",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B9",
+      "fila": "B",
+      "columna": 9,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B10",
+      "fila": "B",
+      "columna": 10,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B11",
+      "fila": "B",
+      "columna": 11,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B12",
+      "fila": "B",
+      "columna": 12,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "B13",
+      "fila": "B",
+      "columna": 13,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C1",
+      "fila": "C",
+      "columna": 1,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "2679QCI",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:40:52.751546"
+    },
+    {
+      "id": "C2",
+      "fila": "C",
+      "columna": 2,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "4206AWX",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:41:02.755883"
+    },
+    {
+      "id": "C3",
+      "fila": "C",
+      "columna": 3,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C4",
+      "fila": "C",
+      "columna": 4,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C5",
+      "fila": "C",
+      "columna": 5,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "1811YDN",
+        "es_minusvalido": false,
+        "es_electrico": true
+      },
+      "timestamp_entrada": "2026-01-21T17:42:11.324961"
+    },
+    {
+      "id": "C6",
+      "fila": "C",
+      "columna": 6,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "9782RHM",
+        "es_minusvalido": false,
+        "es_electrico": true
+      },
+      "timestamp_entrada": "2026-01-21T17:39:58.856885"
+    },
+    {
+      "id": "C7",
+      "fila": "C",
+      "columna": 7,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "8291GZO",
+        "es_minusvalido": false,
+        "es_electrico": true
+      },
+      "timestamp_entrada": "2026-01-21T17:41:38.971042"
+    },
+    {
+      "id": "C8",
+      "fila": "C",
+      "columna": 8,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C9",
+      "fila": "C",
+      "columna": 9,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C10",
+      "fila": "C",
+      "columna": 10,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C11",
+      "fila": "C",
+      "columna": 11,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C12",
+      "fila": "C",
+      "columna": 12,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "C13",
+      "fila": "C",
+      "columna": 13,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D1",
+      "fila": "D",
+      "columna": 1,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D2",
+      "fila": "D",
+      "columna": 2,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D3",
+      "fila": "D",
+      "columna": 3,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D4",
+      "fila": "D",
+      "columna": 4,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D5",
+      "fila": "D",
+      "columna": 5,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D6",
+      "fila": "D",
+      "columna": 6,
+      "tipo": "electrico",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D7",
+      "fila": "D",
+      "columna": 7,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D8",
+      "fila": "D",
+      "columna": 8,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D9",
+      "fila": "D",
+      "columna": 9,
+      "tipo": "electrico",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D10",
+      "fila": "D",
+      "columna": 10,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "6420XCK",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:41:06.819447"
+    },
+    {
+      "id": "D11",
+      "fila": "D",
+      "columna": 11,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D12",
+      "fila": "D",
+      "columna": 12,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "D13",
+      "fila": "D",
+      "columna": 13,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E1",
+      "fila": "E",
+      "columna": 1,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E2",
+      "fila": "E",
+      "columna": 2,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E3",
+      "fila": "E",
+      "columna": 3,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E4",
+      "fila": "E",
+      "columna": 4,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E5",
+      "fila": "E",
+      "columna": 5,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E6",
+      "fila": "E",
+      "columna": 6,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E7",
+      "fila": "E",
+      "columna": 7,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E8",
+      "fila": "E",
+      "columna": 8,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E9",
+      "fila": "E",
+      "columna": 9,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E10",
+      "fila": "E",
+      "columna": 10,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E11",
+      "fila": "E",
+      "columna": 11,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E12",
+      "fila": "E",
+      "columna": 12,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "E13",
+      "fila": "E",
+      "columna": 13,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F1",
+      "fila": "F",
+      "columna": 1,
+      "tipo": "electrico",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F2",
+      "fila": "F",
+      "columna": 2,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F3",
+      "fila": "F",
+      "columna": 3,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F4",
+      "fila": "F",
+      "columna": 4,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "4720OHO",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:40:03.191017"
+    },
+    {
+      "id": "F5",
+      "fila": "F",
+      "columna": 5,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "2687FGP",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:39:52.388612"
+    },
+    {
+      "id": "F6",
+      "fila": "F",
+      "columna": 6,
+      "tipo": "minusvalido",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F7",
+      "fila": "F",
+      "columna": 7,
+      "tipo": "electrico",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F8",
+      "fila": "F",
+      "columna": 8,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "2330BHS",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:39:43.066220"
+    },
+    {
+      "id": "F9",
+      "fila": "F",
+      "columna": 9,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "9412IIQ",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:40:23.176146"
+    },
+    {
+      "id": "F10",
+      "fila": "F",
+      "columna": 10,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "9351CMI",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:41:29.928924"
+    },
+    {
+      "id": "F11",
+      "fila": "F",
+      "columna": 11,
+      "tipo": "electrico",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F12",
+      "fila": "F",
+      "columna": 12,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "F13",
+      "fila": "F",
+      "columna": 13,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "5647WHH",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:42:05.408528"
+    },
+    {
+      "id": "G1",
+      "fila": "G",
+      "columna": 1,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G2",
+      "fila": "G",
+      "columna": 2,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G3",
+      "fila": "G",
+      "columna": 3,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G4",
+      "fila": "G",
+      "columna": 4,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G5",
+      "fila": "G",
+      "columna": 5,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G6",
+      "fila": "G",
+      "columna": 6,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G7",
+      "fila": "G",
+      "columna": 7,
+      "tipo": "electrico",
+      "ocupado": true,
+      "coche": {
+        "matricula": "8689XBU",
+        "es_minusvalido": false,
+        "es_electrico": true
+      },
+      "timestamp_entrada": "2026-01-21T17:41:11.998653"
+    },
+    {
+      "id": "G8",
+      "fila": "G",
+      "columna": 8,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G9",
+      "fila": "G",
+      "columna": 9,
+      "tipo": "normal",
+      "ocupado": true,
+      "coche": {
+        "matricula": "9554WOK",
+        "es_minusvalido": false,
+        "es_electrico": false
+      },
+      "timestamp_entrada": "2026-01-21T17:39:15.981562"
+    },
+    {
+      "id": "G10",
+      "fila": "G",
+      "columna": 10,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G11",
+      "fila": "G",
+      "columna": 11,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G12",
+      "fila": "G",
+      "columna": 12,
+      "tipo": "normal",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    },
+    {
+      "id": "G13",
+      "fila": "G",
+      "columna": 13,
+      "tipo": "electrico",
+      "ocupado": false,
+      "coche": null,
+      "timestamp_entrada": null
+    }
+  ],
+  "estrategia_tarifa": "Est\u00e1ndar"
+}
